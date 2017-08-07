@@ -1,0 +1,7 @@
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+elasticsearch:x:496:492:elasticsearch user:/home/elasticsearch:/sbin/nologin
+kibana:x:494:490:kibana service user:/home/kibana:/sbin/nologin
+nginx:x:492:488:nginx user:/var/cache/nginx:/sbin/nologin
+mysql:x:27:27:MySQL Server:/var/lib/mysql:/bin/bash
+dockerroot:x:491:491:Docker User:/var/lib/docker:/sbin/nologin
